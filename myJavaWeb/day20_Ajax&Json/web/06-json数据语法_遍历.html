@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <script>
+
+        // 1.定义基本格式
+        var person = {"name": "zhangsan", age: 23, 'gender': true};
+
+        var ps = [
+
+
+            {"name": "zhangsan", "age": 23, "gender": true},
+            {"name": "lisi", "age": 24, "gender": true},
+            {"name": "wangwu", "age": 25, "gender": true}
+
+
+        ];
+
+        // 获取person对象所有的键和值
+
+        // for  in 循环
+
+        for (var key in  person) {
+            //alert(key + "---" + person.key);
+            //alert(key + "-----" + person[key]);
+        }
+
+        //获取ps中的所有值
+        for (var i = 0; i < ps.length; i++) {
+
+            var p = ps[i];
+
+
+            for (var key in  p) {
+
+                alert(key + ":" + p[key]);
+
+            }
+
+
+        }
+
+
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>

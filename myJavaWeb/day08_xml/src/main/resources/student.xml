@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+
+    <student number="s001">
+
+        <name id="nba">
+            <xing>张</xing>
+            <ming>三</ming>
+        </name>
+
+        <age>25</age>
+
+        <sex>male</sex>
+
+    </student>
+
+    <student number="s002">
+
+        <name>jack</name>
+
+        <age>18</age>
+
+        <sex>female</sex>
+
+    </student>
+
+</students>

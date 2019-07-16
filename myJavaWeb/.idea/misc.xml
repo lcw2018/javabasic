@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day01_基础加强/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_dataSource_jdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/day05_html&amp;css/pom.xml" />
+        <option value="$PROJECT_DIR$/day06_javascript基础/pom.xml" />
+        <option value="$PROJECT_DIR$/day07_bootstrap/pom.xml" />
+        <option value="$PROJECT_DIR$/day08_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/day18_jQuery基础/pom.xml" />
+        <option value="$PROJECT_DIR$/day19_jQuery高级/pom.xml" />
+        <option value="$PROJECT_DIR$/day21_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/day22_travel/pom.xml" />
+        <option value="$PROJECT_DIR$/day23_jpa1/pom.xml" />
+        <option value="$PROJECT_DIR$/day24_jpa2/pom.xml" />
+        <option value="$PROJECT_DIR$/day25_jpa3_manytomany/pom.xml" />
+        <option value="$PROJECT_DIR$/day26_onetomany/pom.xml" />
+        <option value="$PROJECT_DIR$/day27_spec/pom.xml" />
+        <option value="$PROJECT_DIR$/day28_lucene_first/pom.xml" />
+        <option value="$PROJECT_DIR$/day29_es_first/pom.xml" />
+        <option value="$PROJECT_DIR$/day30_springdata_elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearchDemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/.." />
+  </component>
+</project>

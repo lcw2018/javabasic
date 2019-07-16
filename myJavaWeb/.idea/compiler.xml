@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_基础加强" />
+        <module name="day02_jdbc" />
+        <module name="day03_dataSource_jdbcTemplate" />
+        <module name="day05_html&amp;css" />
+        <module name="day06_javascript基础" />
+        <module name="day07_bootstrap" />
+        <module name="day08_xml" />
+        <module name="day18_jQuery基础" />
+        <module name="day19_jQuery高级" />
+        <module name="day21_redis" />
+        <module name="day22_travel" />
+        <module name="day23_jpa1" />
+        <module name="day24_jpa2" />
+        <module name="day25_jpa3_manytomany" />
+        <module name="day26_onetomany" />
+        <module name="day27_spec" />
+        <module name="day28_lucene_first" />
+        <module name="day29_es_first" />
+        <module name="day30_springdata_elasticsearch" />
+        <module name="elasticsearchDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01_基础加强" target="1.5" />
+      <module name="day02_jdbc" target="6" />
+      <module name="day03_dataSource_jdbcTemplate" target="1.5" />
+      <module name="day04_html" target="1.5" />
+      <module name="day05_html&amp;css" target="1.5" />
+      <module name="day06_javascript基础" target="1.5" />
+      <module name="day07_bootstrap" target="1.5" />
+      <module name="day08_xml" target="1.5" />
+      <module name="day09_servlet" target="8" />
+      <module name="day10_tomcat" target="8" />
+      <module name="day12_test" target="8" />
+      <module name="day13_response" target="8" />
+      <module name="day14_cookie_session" target="8" />
+      <module name="day15_case" target="8" />
+      <module name="day16_el_jstl" target="8" />
+      <module name="day17_filter_listener" target="8" />
+      <module name="day18_jQuery基础" target="1.5" />
+      <module name="day19_jQuery高级" target="1.5" />
+      <module name="day21_redis" target="1.5" />
+      <module name="day22_travel" target="1.5" />
+      <module name="day23_jpa1" target="1.5" />
+      <module name="day24_jpa2" target="1.5" />
+      <module name="day25_jpa3_manytomany" target="1.5" />
+      <module name="day26_onetomany" target="1.5" />
+      <module name="day27_spec" target="1.5" />
+      <module name="day28_lucene_first" target="1.5" />
+      <module name="day29_es_first" target="1.5" />
+      <module name="day30_springdata_elasticsearch" target="1.5" />
+      <module name="elasticsearchDemo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

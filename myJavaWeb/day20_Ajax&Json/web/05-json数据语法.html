@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <script>
+
+
+        // 1.定义基本格式
+
+        var person = {"name": "zhangsan", "age": 23, "gender": true};
+
+        // var name = person.name;
+
+        var age = person["age"];
+
+        //alert(name);
+
+        //  alert(age);
+
+        // 2.嵌套格式     {}->[]
+
+
+        var persons = {
+            "person": [
+
+                {"name": "zhangsan", "age": 23, "gender": true},
+                {"name": "lisi", "age": 24, "gender": true},
+                {"name": "wangwu", "age": 25, "gender": false}
+
+
+            ]
+
+
+        }
+
+        // alert(persons);
+        // alert(persons.person);
+        //  alert(persons.person[2].name);//获取wangwu的值
+
+
+        //2.嵌套格式   []->{}
+
+        var persons = [
+
+
+            {"name": "zhangsan", "age": 23, "gender": true},
+            {"name": "lisi", "age": 24, "gender": true},
+            {"name": "wangwu", "age": 25, "gender": false}
+        ]
+
+        //获取lisi的值
+
+        //  alert(persons[1]);
+        alert(persons[1].name)
+
+        //获取lisi的值
+
+
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
