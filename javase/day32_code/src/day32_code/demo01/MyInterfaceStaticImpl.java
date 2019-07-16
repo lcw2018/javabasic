@@ -1,0 +1,7 @@
+package day32_code.demo01;
+
+/**
+ * Create by chuanwen.li on 2019/7/2
+ */
+public class MyInterfaceStaticImpl implements MyInterfaceStatic {
+}
